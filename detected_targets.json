@@ -5,5 +5,12 @@
         "gps_lat": -5.2e-07,
         "gps_lon": -3.5e-07,
         "severity_index": 5
+    },
+    {
+        "track_id": "T-TEST-001",
+        "lat": 26.21786364,
+        "lon": 78.18245436,
+        "timestamp": "2026-03-31T03:58:13.196650",
+        "status": "HIGH"
     }
 ]
