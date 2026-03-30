@@ -1,0 +1,8 @@
+2026-03-29 00:32:00,735 - [INFO] - <Line: 105> - Mock MAVLink Telemetry Server running on http://127.0.0.1:56781/mavlink/
+2026-03-29 00:32:00,735 - [INFO] - <Line: 106> - Press Ctrl+C to stop.
+2026-03-29 00:32:06,819 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-29 00:32:06,819 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-29 00:32:06,889 - [DEBUG] - <Line: 97> - HTTP Server: code 404, message Endpoint not found. Use /mavlink/
+2026-03-29 00:32:06,889 - [DEBUG] - <Line: 97> - HTTP Server: "GET /favicon.ico HTTP/1.1" 404 -
+2026-03-29 00:32:06,889 - [WARNING] - <Line: 93> - 404 Not Found requested by 127.0.0.1 for path: /favicon.ico
+2026-03-29 00:32:15,247 - [INFO] - <Line: 110> - Server manually stopped by operator.

@@ -1,0 +1,4 @@
+2026-03-28 03:59:25,214 - [INFO] - <Line: 105> - Mock MAVLink Telemetry Server running on http://127.0.0.1:56781/mavlink/
+2026-03-28 03:59:25,214 - [INFO] - <Line: 106> - Press Ctrl+C to stop.
+2026-03-28 03:59:27,293 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-28 03:59:27,293 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1

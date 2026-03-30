@@ -1,0 +1,48 @@
+2026-03-27 13:46:46,745 - [INFO] - <Line: 105> - Mock MAVLink Telemetry Server running on http://127.0.0.1:56781/mavlink/
+2026-03-27 13:46:46,745 - [INFO] - <Line: 106> - Press Ctrl+C to stop.
+2026-03-27 13:47:39,255 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:47:39,256 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:47:39,349 - [DEBUG] - <Line: 97> - HTTP Server: code 404, message Endpoint not found. Use /mavlink/
+2026-03-27 13:47:39,349 - [DEBUG] - <Line: 97> - HTTP Server: "GET /favicon.ico HTTP/1.1" 404 -
+2026-03-27 13:47:39,349 - [WARNING] - <Line: 93> - 404 Not Found requested by 127.0.0.1 for path: /favicon.ico
+2026-03-27 13:49:01,209 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:01,210 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:02,211 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:02,212 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:03,213 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:03,214 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:04,215 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:04,216 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:05,218 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:05,218 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:06,220 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:06,220 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:07,222 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:07,222 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:08,224 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:08,225 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:09,226 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:09,227 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:10,228 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:10,229 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:11,230 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:11,231 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:12,232 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:12,233 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:13,234 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:13,234 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:14,236 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:14,236 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:15,237 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:15,238 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:16,239 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:16,240 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:17,241 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:17,242 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:18,243 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:18,243 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:19,245 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:19,245 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:20,247 - [DEBUG] - <Line: 97> - HTTP Server: "GET /mavlink/ HTTP/1.1" 200 -
+2026-03-27 13:49:20,248 - [DEBUG] - <Line: 89> - Served mock MAVLink data to 127.0.0.1
+2026-03-27 13:49:25,726 - [INFO] - <Line: 110> - Server manually stopped by operator.
