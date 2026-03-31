@@ -1,0 +1,1355 @@
+2026-03-30 16:13:16,586 - [INFO] - <Line: 700> - Launching Cobra VTOL Ground Station (Windows)...
+2026-03-30 16:13:16,637 - [INFO] - <Line: 246> - ═══════════════════════════════════════════════════
+2026-03-30 16:13:16,637 - [INFO] - <Line: 247> -    HYBRID SYSTEM BOOT INITIATED  (Windows)
+2026-03-30 16:13:16,637 - [INFO] - <Line: 248> - ═══════════════════════════════════════════════════
+2026-03-30 16:13:16,658 - [INFO] - <Line: 255> - YOLOv8n Core Online.
+2026-03-30 16:13:16,658 - [INFO] - <Line: 127> - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-03-30 16:13:16,660 - [DEBUG] - <Line: 130> -   Probing index 0 with CAP_DSHOW...
+2026-03-30 16:13:16,897 - [INFO] - <Line: 138> -   ✓ Camera found at index 0
+2026-03-30 16:13:17,070 - [INFO] - <Line: 271> - OBS Video Feed Online (DirectShow).
+2026-03-30 16:13:17,070 - [INFO] - <Line: 281> - Establishing MAVLink Command Link → tcp:127.0.0.1:5760
+2026-03-30 16:13:19,118 - [ERROR] - <Line: 286> - MAVLink Command Link failed — [WinError 10061] No connection could be made because the target machine actively refused it (Is SITL running?)
+2026-03-30 16:13:19,137 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:19,339 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:19,408 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:19,408 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:19,491 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:19,492 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:19,547 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:19,748 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:19,788 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:19,788 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:19,882 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:19,882 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:19,973 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:19,974 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:20,002 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:20,203 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:20,242 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:20,242 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:20,336 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:20,337 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:20,426 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:20,426 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:20,446 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:20,649 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:20,678 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:20,678 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:20,759 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:20,759 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:20,843 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:20,844 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:20,874 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:21,077 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:21,112 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:21,112 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:21,202 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:21,203 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:21,285 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:21,285 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:21,317 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:21,518 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:21,541 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:21,541 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:21,623 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:21,623 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:21,713 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:21,713 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:21,736 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:21,937 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:21,962 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:21,962 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:22,042 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:22,042 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:22,143 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:22,143 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:22,173 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:22,375 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:22,408 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:22,409 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:22,491 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:22,491 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:22,573 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:22,573 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:22,593 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:22,794 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:22,830 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:22,830 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:22,911 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:22,911 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:22,992 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:22,992 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:23,013 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:23,214 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:23,244 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:23,244 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:23,320 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:23,320 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:23,402 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:23,402 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:23,422 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:23,624 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:23,651 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:23,651 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:23,736 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:23,736 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:23,826 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:23,826 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:23,847 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:24,048 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:24,072 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:24,072 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:24,163 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:24,164 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:24,255 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:24,256 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:24,286 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:24,489 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:24,518 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:24,518 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:24,599 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:24,599 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:24,690 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:24,690 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:24,710 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:24,912 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:24,945 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:24,945 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:25,027 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:25,027 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:25,111 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:25,111 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:25,143 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:25,344 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:25,379 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:25,379 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:25,463 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:25,463 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:25,556 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:25,556 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:25,585 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:25,786 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:25,812 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:25,812 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:25,895 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:25,896 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:25,965 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:25,966 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:25,986 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:26,188 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:26,214 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:26,214 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:26,297 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:26,297 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:26,376 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:26,376 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:26,402 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:26,604 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:26,628 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:26,628 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:26,706 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:26,707 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:26,789 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:26,789 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:26,812 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:27,014 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:27,037 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:27,037 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:27,117 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:27,117 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:27,196 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:27,196 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:27,221 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:27,423 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:27,453 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:27,454 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:27,534 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:27,534 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:27,615 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:27,615 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:27,635 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:27,837 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:27,865 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:27,865 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:27,947 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:27,947 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:28,031 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:28,032 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:28,064 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:28,265 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:28,294 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:28,294 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:28,372 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:28,373 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:28,454 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:28,455 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:28,475 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:28,676 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:28,708 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:28,708 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:28,790 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:28,790 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:28,875 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:28,875 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:28,896 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:29,097 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:29,123 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:29,123 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:29,208 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:29,208 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:29,289 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:29,290 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:29,310 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:29,512 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:29,542 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:29,543 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:29,629 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:29,629 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:29,709 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:29,709 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:29,730 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:29,931 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:29,961 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:29,961 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:30,046 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:30,046 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:30,117 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:30,118 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:30,138 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:30,339 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:30,363 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:30,363 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:30,443 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:30,444 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:30,526 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:30,526 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:30,548 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:30,748 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:30,774 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:30,774 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:30,856 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:30,856 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:30,939 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:30,939 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:30,961 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:31,161 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:31,187 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:31,187 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:31,268 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:31,268 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:31,354 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:31,354 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:31,376 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:31,576 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:31,604 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:31,604 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:31,690 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:31,690 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:31,776 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:31,776 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:31,808 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:32,009 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:32,042 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:32,043 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:32,119 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:32,119 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:32,198 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:32,198 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:32,220 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:32,421 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:32,455 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:32,456 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:32,536 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:32,536 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:32,617 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:32,617 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:32,640 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:32,842 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:32,876 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:32,877 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:32,968 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:32,969 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:33,053 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:33,053 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:33,073 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:33,275 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:33,297 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:33,297 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:33,378 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:33,378 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:33,460 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:33,460 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:33,480 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:33,681 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:33,709 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:33,710 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:33,786 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:33,786 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:33,869 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:33,869 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:33,889 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:34,090 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:34,120 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:34,120 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:34,211 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:34,211 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:34,293 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:34,293 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:34,321 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:34,522 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:34,552 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:34,552 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:34,632 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:34,632 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:34,714 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:34,714 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:34,736 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:34,937 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:34,962 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:34,963 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:35,038 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:35,038 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:35,124 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:35,124 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:35,148 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:35,349 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:35,381 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:35,382 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:35,469 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:35,470 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:35,558 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:35,558 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:35,590 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:35,791 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:35,813 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:35,813 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:35,893 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:35,893 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:35,971 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:35,972 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:35,992 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:36,193 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:36,222 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:36,222 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:36,302 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:36,303 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:36,380 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:36,381 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:36,400 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:36,602 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:36,629 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:36,629 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:36,720 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:36,721 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:36,803 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:36,803 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:36,828 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:37,030 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:37,062 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:37,062 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:37,152 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:37,152 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:37,233 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:37,234 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:37,259 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:37,460 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:37,500 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:37,500 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:37,578 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:37,578 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:37,667 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:37,668 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:37,687 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:37,888 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:37,922 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:37,922 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:38,011 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:38,011 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:38,096 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:38,097 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:38,117 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:38,319 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:38,346 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:38,346 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:38,429 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:38,430 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:38,516 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:38,516 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:38,537 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:38,738 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:38,766 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:38,767 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:38,847 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:38,847 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:38,925 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:38,925 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:38,945 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:39,146 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:39,177 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:39,177 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:39,262 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:39,262 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:39,334 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:39,335 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:39,355 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:39,556 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:39,593 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:39,593 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:39,677 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:39,678 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:39,764 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:39,764 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:39,787 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:39,987 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:40,017 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:40,017 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:40,098 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:40,098 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:40,195 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:40,195 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:40,221 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:40,423 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:40,450 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:40,450 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:40,528 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:40,528 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:40,611 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:40,611 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:40,634 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:40,836 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:40,871 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:40,871 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:40,969 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:40,969 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:41,066 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:41,067 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:41,099 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:41,301 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:41,331 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:41,331 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:41,410 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:41,410 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:41,497 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:41,497 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:41,528 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:41,730 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:41,768 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:41,768 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:41,862 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:41,862 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:41,946 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:41,946 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:41,969 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:42,170 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:42,199 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:42,199 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:42,285 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:42,286 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:42,371 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:42,371 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:42,393 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:42,594 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:42,628 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:42,628 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:42,710 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:42,710 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:42,804 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:42,804 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:42,833 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:43,034 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:43,060 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:43,060 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:43,144 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:43,144 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:43,233 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:43,233 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:43,258 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:43,461 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:43,482 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:43,482 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:43,567 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:43,568 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:43,649 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:43,649 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:43,674 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:43,875 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:43,906 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:43,906 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:43,988 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:43,988 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:44,084 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:44,085 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:44,120 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:44,321 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:44,351 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:44,351 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:44,432 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:44,432 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:44,517 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:44,517 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:44,547 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:44,749 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:44,775 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:44,776 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:44,864 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:44,864 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:44,945 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:44,946 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:44,969 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:45,171 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:45,201 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:45,201 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:45,289 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:45,290 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:45,374 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:45,374 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:45,396 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:45,598 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:45,624 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:45,624 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:45,699 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:45,700 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:45,782 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:45,782 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:45,808 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:46,010 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:46,046 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:46,047 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:46,133 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:46,133 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:46,216 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:46,216 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:46,239 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:46,440 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:46,475 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:46,475 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:46,567 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:46,568 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:46,666 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:46,666 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:46,697 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:46,898 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:46,931 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:46,931 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:47,015 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:47,015 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:47,100 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:47,100 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:47,121 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:47,322 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:47,346 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:47,346 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:47,425 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:47,426 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:47,513 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:47,513 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:47,540 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:47,742 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:47,773 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:47,774 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:47,858 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:47,858 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:47,943 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:47,943 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:47,965 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:48,167 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:48,203 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:48,203 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:48,290 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:48,291 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:48,375 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:48,375 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:48,399 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:48,600 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:48,628 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:48,628 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:48,710 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:48,710 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:48,801 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:48,801 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:48,823 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:49,024 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:49,045 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:49,045 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:49,126 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:49,126 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:49,209 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:49,210 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:49,231 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:49,433 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:49,472 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:49,472 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:49,561 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:49,561 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:49,645 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:49,645 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:49,668 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:49,869 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:49,899 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:49,899 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:49,980 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:49,980 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:50,065 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:50,065 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:50,091 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:50,291 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:50,316 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:50,316 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:50,400 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:50,400 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:50,486 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:50,486 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:50,511 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:50,712 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:50,741 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:50,741 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:50,822 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:50,822 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:50,905 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:50,905 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:50,937 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:51,139 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:51,166 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:51,167 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:51,248 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:51,248 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:51,329 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:51,329 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:51,350 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:51,550 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:51,580 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:51,580 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:51,664 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:51,664 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:51,751 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:51,751 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:51,773 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:51,974 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:52,002 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:52,002 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:52,089 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:52,089 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:52,180 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:52,180 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:52,208 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:52,408 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:52,446 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:52,447 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:52,526 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:52,526 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:52,615 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:52,615 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:52,636 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:52,838 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:52,868 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:52,868 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:52,952 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:52,953 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:53,036 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:53,036 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:53,058 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:53,259 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:53,289 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:53,289 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:53,367 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:53,367 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:53,452 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:53,453 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:53,475 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:53,677 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:53,705 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:53,706 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:53,783 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:53,784 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:53,863 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:53,864 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:53,887 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:54,088 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:54,112 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:54,112 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:54,190 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:54,190 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:54,276 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:54,276 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:54,298 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:54,500 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:54,525 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:54,525 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:54,608 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:54,608 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:54,690 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:54,690 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:54,712 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:54,913 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:54,937 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:54,937 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:55,017 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:55,017 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:55,094 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:55,095 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:55,117 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:55,318 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:55,339 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:55,340 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:55,421 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:55,421 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:55,503 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:55,503 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:55,531 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:55,733 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:55,759 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:55,759 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:55,849 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:55,850 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:55,938 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:55,938 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:55,970 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:56,173 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:56,207 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:56,207 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:56,286 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:56,286 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:56,366 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:56,366 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:56,396 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:56,610 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:56,641 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:56,642 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:56,723 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:56,723 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:56,806 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:56,806 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:56,827 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:57,028 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:57,060 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:57,060 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:57,141 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:57,142 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:57,223 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:57,223 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:57,250 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:57,452 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:57,479 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:57,479 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:57,566 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:57,566 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:57,648 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:57,648 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:57,673 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:57,874 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:57,908 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:57,908 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:57,982 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:57,982 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:58,073 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:58,073 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:58,097 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:58,298 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:58,326 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:58,326 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:58,415 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:58,415 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:58,506 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:58,506 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:58,529 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:58,730 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:58,762 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:58,762 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:58,842 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:58,842 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:58,931 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:58,931 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:58,963 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:59,166 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:59,199 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:59,199 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:59,278 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:59,278 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:59,356 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:59,356 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:59,379 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:59,581 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:13:59,611 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:59,611 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:59,689 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:59,690 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:59,771 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:13:59,771 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:13:59,794 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:13:59,994 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:00,031 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:00,032 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:00,128 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:00,128 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:00,227 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:00,227 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:00,253 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:00,455 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:00,475 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:00,476 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:00,554 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:00,554 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:00,639 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:00,640 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:00,673 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:00,874 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:00,910 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:00,910 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:01,003 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:01,003 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:01,090 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:01,090 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:01,114 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:01,314 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:01,336 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:01,336 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:01,417 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:01,417 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:01,499 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:01,499 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:01,522 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:01,724 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:01,752 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:01,753 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:01,835 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:01,835 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:01,912 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:01,912 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:01,935 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:02,136 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:02,162 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:02,163 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:02,243 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:02,243 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:02,326 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:02,328 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:02,350 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:02,551 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:02,580 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:02,580 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:02,657 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:02,658 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:02,738 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:02,739 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:02,763 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:02,966 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:02,991 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:02,992 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:03,071 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:03,071 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:03,155 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:03,156 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:03,178 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:03,378 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:03,402 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:03,402 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:03,480 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:03,480 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:03,562 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:03,562 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:03,584 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:03,786 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:03,815 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:03,815 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:03,887 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:03,888 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:03,964 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:03,964 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:03,986 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:04,188 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:04,209 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:04,209 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:04,294 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:04,294 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:04,373 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:04,373 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:04,396 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:04,597 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:04,617 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:04,617 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:04,698 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:04,698 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:04,779 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:04,779 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:04,801 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:05,002 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:05,027 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:05,028 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:05,108 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:05,108 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:05,198 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:05,199 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:05,225 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:05,426 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:05,446 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:05,446 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:05,517 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:05,517 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:05,597 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:05,597 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:05,626 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:05,826 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:05,856 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:05,856 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:05,935 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:05,935 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:06,016 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:06,016 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:06,040 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:06,241 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:06,272 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:06,272 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:06,357 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:06,357 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:06,444 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:06,445 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:06,476 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:06,678 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:06,711 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:06,712 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:06,792 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:06,792 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:06,879 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:06,880 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:06,908 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:07,109 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:07,143 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:07,143 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:07,237 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:07,238 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:07,325 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:07,326 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:07,349 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:07,550 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:07,576 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:07,577 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:07,657 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:07,657 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:07,740 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:07,741 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:07,762 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:07,964 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:07,994 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:07,994 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:08,084 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:08,084 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:08,175 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:08,176 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:08,202 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:08,403 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:08,432 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:08,432 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:08,514 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:08,515 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:08,599 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:08,599 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:08,625 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:08,826 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:08,857 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:08,857 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:08,941 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:08,942 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:09,027 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:09,027 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:09,048 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:09,250 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:09,278 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:09,278 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:09,360 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:09,360 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:09,444 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:09,445 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:09,467 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:09,668 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:09,701 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:09,701 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:09,798 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:09,798 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:09,894 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:09,895 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:09,918 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:10,120 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:10,153 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:10,153 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:10,241 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:10,241 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:10,321 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:10,322 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:10,344 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:10,545 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:10,565 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:10,565 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:10,648 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:10,649 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:10,723 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:10,723 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:10,746 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:10,948 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:10,973 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:10,973 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:11,051 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:11,051 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:11,132 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:11,132 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:11,155 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:11,357 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:11,391 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:11,392 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:11,471 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:11,472 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:11,552 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:11,552 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:11,573 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:11,774 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:11,802 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:11,802 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:11,881 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:11,881 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:11,964 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:11,964 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:11,995 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:12,197 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:12,227 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:12,227 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:12,302 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:12,303 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:12,384 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:12,385 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:12,409 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:12,611 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:12,639 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:12,639 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:12,722 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:12,722 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:12,804 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:12,804 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:12,828 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:13,030 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:13,057 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:13,058 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:13,134 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:13,134 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:13,214 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:13,214 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:13,237 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:13,438 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:13,466 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:13,467 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:13,544 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:13,544 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:13,628 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:13,628 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:13,651 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:13,851 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:13,883 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:13,883 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:13,957 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:13,957 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:14,041 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:14,042 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:14,065 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:14,267 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:14,285 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:14,285 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:14,366 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:14,366 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:14,464 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:14,465 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:14,488 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:14,689 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:14,718 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:14,718 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:14,806 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:14,806 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:14,899 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:14,900 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:14,931 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:15,132 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:15,161 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:15,162 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:15,247 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:15,248 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:15,335 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:15,336 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:15,358 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:15,560 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:15,595 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:15,595 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:15,674 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:15,675 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:15,764 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:15,765 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:15,786 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:15,988 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:16,022 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:16,023 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:16,108 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:16,108 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:16,191 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:16,191 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:16,212 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:16,414 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:16,437 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:16,437 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:16,524 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:16,524 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:16,610 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:16,610 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:16,644 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:16,846 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:16,878 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:16,879 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:16,959 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:16,959 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:17,038 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:17,038 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:17,060 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:17,262 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:17,298 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:17,299 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:17,378 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:17,378 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:17,453 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:17,453 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:17,475 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:17,677 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:17,706 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:17,706 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:17,790 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:17,790 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:17,882 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:17,882 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:17,906 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:18,107 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:18,126 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:18,126 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:18,201 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:18,201 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:18,283 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:18,284 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:18,313 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:18,515 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:18,540 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:18,540 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:18,625 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:18,625 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:18,705 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:18,705 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:18,728 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:18,929 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:18,964 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:18,964 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:19,043 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:19,043 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:19,127 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:19,127 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:19,153 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:19,354 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:19,377 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:19,378 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:19,459 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:19,459 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:19,566 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:19,566 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:19,592 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:19,794 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:19,824 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:19,825 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:19,907 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:19,907 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:19,995 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:19,995 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:20,030 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:20,231 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:20,264 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:20,264 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:20,337 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:20,338 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:20,424 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:20,424 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:20,446 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:20,648 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:20,683 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:20,683 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:20,774 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:20,774 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:20,861 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:20,862 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:20,884 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:21,086 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:21,108 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:21,108 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:21,184 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:21,184 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:21,264 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:21,264 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:21,292 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:21,493 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:21,530 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:21,531 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:21,617 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:21,617 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:21,705 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:21,706 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:21,727 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:21,929 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:21,955 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:21,955 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:22,033 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:22,033 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:22,115 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:22,115 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:22,144 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:22,345 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:22,380 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:22,380 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:22,460 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:22,461 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:22,543 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:22,543 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:22,565 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:22,766 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:22,790 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:22,790 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:22,875 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:22,875 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:22,972 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:22,972 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:22,995 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:23,196 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:23,222 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:23,222 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:23,307 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:23,308 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:23,389 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:23,389 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:23,411 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:23,614 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:23,643 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:23,644 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:23,728 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:23,728 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:23,811 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:23,811 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:23,833 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:24,035 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:24,071 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:24,071 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:24,158 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:24,158 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:24,240 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:24,240 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:24,263 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:24,464 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:24,485 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:24,485 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:24,559 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:24,560 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:24,644 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:24,645 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:24,679 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:24,881 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:24,916 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:24,916 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:24,994 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:24,994 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:25,069 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:25,069 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:25,097 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:25,299 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:25,322 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:25,322 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:25,393 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:25,393 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:25,471 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:25,471 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:25,499 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:25,701 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:25,734 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:25,734 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:25,812 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:25,813 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:25,896 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:25,896 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:25,927 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:26,129 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:26,156 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:26,156 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:26,225 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:26,226 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:26,308 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:26,308 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:26,332 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:26,534 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:26,562 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:26,562 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:26,640 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:26,640 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:26,721 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:26,721 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:26,743 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:26,945 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:26,983 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:26,983 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:27,081 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:27,081 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:27,146 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:27,347 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:27,386 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:27,386 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:27,470 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:27,470 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:27,553 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:27,554 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:27,579 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:27,781 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:27,817 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:27,817 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:27,907 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:27,907 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:28,003 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:28,004 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:28,038 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:28,240 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:28,277 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:28,277 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:28,380 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:28,380 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:28,479 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:28,479 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:28,515 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:28,716 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:28,746 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:28,746 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:28,837 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:28,837 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:28,926 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:28,927 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:28,952 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:29,153 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:29,184 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:29,184 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:29,270 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:29,270 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:29,356 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:29,356 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:29,380 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:29,581 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:29,613 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:29,613 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:29,697 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:29,697 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:29,780 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:29,780 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:29,802 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:30,004 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:30,027 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:30,027 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:30,109 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:30,109 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:30,188 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:30,188 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)
+2026-03-30 16:14:30,215 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-03-30 16:14:30,416 - [DEBUG] - <Line: 566> - Telemetry server unreachable (ConnectionError).
+2026-03-30 16:14:30,449 - [DEBUG] - <Line: 419> - GPS projection: px=(895,615) → (-5.2e-07, -3.5e-07)
+2026-03-30 16:14:30,449 - [DEBUG] - <Line: 640> - Human detected px=(895,615) → GPS=(-0.000001,-0.000000)

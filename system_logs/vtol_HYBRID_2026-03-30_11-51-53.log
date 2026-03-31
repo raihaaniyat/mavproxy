@@ -1,0 +1,5 @@
+2026-03-30 11:51:53,696 - [INFO] - <Line: 58> - --- HYBRID SYSTEM BOOT INITIATED ---
+2026-03-30 11:51:53,720 - [INFO] - <Line: 63> - YOLOv8 Core Online.
+2026-03-30 11:51:53,722 - [INFO] - <Line: 71> - OBS Video Feed Online.
+2026-03-30 11:51:53,722 - [INFO] - <Line: 77> - Establishing Command Link to SITL at tcp:127.0.0.1:5760...
+2026-03-30 11:51:53,723 - [INFO] - <Line: 80> - SITL Command Pipeline Ready.
