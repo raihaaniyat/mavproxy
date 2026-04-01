@@ -1,0 +1,8 @@
+2026-04-01 16:18:05,933 - [INFO] - ═══════════════════════════════════════════════════
+2026-04-01 16:18:05,933 - [INFO] -    DIAGNOSTIC BOOT INITIATED (ArduCopter Edition)
+2026-04-01 16:18:05,933 - [INFO] - ═══════════════════════════════════════════════════
+2026-04-01 16:18:05,959 - [INFO] - YOLOv8-Pose Core Online.
+2026-04-01 16:18:05,959 - [INFO] - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 16:18:06,159 - [INFO] -   ✓ Camera found at index 0
+2026-04-01 16:18:07,319 - [INFO] - SITL Pipeline Ready (Awaiting Heartbeat).
+2026-04-01 16:18:07,967 - [INFO] - ✅ LINK ESTABLISHED: Heartbeat Confirmed.

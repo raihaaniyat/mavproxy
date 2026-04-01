@@ -1,10 +1,9 @@
 """
 ================================================================================
- COBRA VTOL — UNIFIED GROUND CONTROL STATION (Diagnostics Edition)
+ COBRA VTOL — DIAGNOSTIC GCS (Pose Estimation Edition)
  Architecture : Unified MAVLink TCP (Mission Planner SITL)
  Platform     : Windows 10/11  |  Python 3.10+
- Consolidates : master_station, telemetry_client, visual_module,
-                operator_module, operator_module2, map_module
+ Firmware     : ArduPlane / QuadPlane
 ================================================================================
 """
 
@@ -146,10 +145,20 @@ def generate_tactical_map() -> Path | None:
         lat, lon = t["gps_lat"], t["gps_lon"]
         sev = t.get("severity_index", 1)
         hid = t.get("id", "Unknown")
-        popup_html = f"<b>{hid}</b><br>Severity: {sev}<br>Lat: {lat:.6f}<br>Lon: {lon:.6f}"
+        pose = t.get("pose", "UNKNOWN")
+        
+        # Enhanced popup with Pose data
+        popup_html = (
+            f"<div style='min-width: 150px;'>"
+            f"<b>{hid}</b><br>"
+            f"Severity: <b><span style='color:{_severity_color(sev)}'>{sev}</span></b><br>"
+            f"Pose: <b>{pose}</b><br>"
+            f"Lat: {lat:.6f}<br>Lon: {lon:.6f}"
+            f"</div>"
+        )
         folium.CircleMarker(
             location=[lat, lon], radius=8,
-            popup=folium.Popup(popup_html, max_width=200),
+            popup=folium.Popup(popup_html, max_width=250),
             color="black", weight=1,
             fill=True, fill_color=_severity_color(sev), fill_opacity=0.9,
         ).add_to(tac_map)
@@ -170,13 +179,14 @@ class GroundStationApp(ctk.CTk):
         self.minsize(960, 600)
 
         log.info("═══════════════════════════════════════════════════")
-        log.info("   DIAGNOSTIC BOOT INITIATED")
+        log.info("   DIAGNOSTIC BOOT INITIATED (ArduPlane Edition)")
         log.info("═══════════════════════════════════════════════════")
 
         self.model = None
         if YOLO_OK:
             try:
-                self.model = YOLO("yolov8n.pt")
+                self.model = YOLO("yolov8n-pose.pt")
+                log.info("YOLOv8-Pose Core Online.")
             except Exception as exc:
                 log.error(f"CRITICAL: YOLO load failed — {exc}")
 
@@ -193,6 +203,7 @@ class GroundStationApp(ctk.CTk):
 
         self.current_telemetry = {"lat": 0.0, "lon": 0.0, "alt_m": 0.0, "hdg": 0.0}
         self.active_target_gps: tuple[float, float] | None = None
+        self.last_detected_pose = "UNKNOWN"
         self._ctk_image_ref = None 
 
         self._build_ui()
@@ -202,16 +213,13 @@ class GroundStationApp(ctk.CTk):
     # ─── Thread-Safe GUI Logger ──────────────────────────────────────────────
     
     def _log_ui(self, message: str) -> None:
-        """Prints exact commands and ACKs to the frontend diagnostic box safely."""
-        log.info(message) # Still log to backend file
-        
+        log.info(message)
         def _update():
             self.console.configure(state="normal")
             ts = datetime.now().strftime("%H:%M:%S")
             self.console.insert("end", f"[{ts}] {message}\n")
-            self.console.see("end") # Auto-scroll to bottom
+            self.console.see("end")
             self.console.configure(state="disabled")
-            
         self.after(0, _update)
 
     def _build_ui(self) -> None:
@@ -237,7 +245,7 @@ class GroundStationApp(ctk.CTk):
 
         # Diagnostics Console
         ctk.CTkLabel(ctrl, text="COMMAND DIAGNOSTICS", font=("Consolas", 14, "bold")).pack(pady=(10, 0))
-        self.console = ctk.CTkTextbox(ctrl, height=180, font=("Consolas", 11), fg_color="#1e1e1e", text_color="#00ff00")
+        self.console = ctk.CTkTextbox(ctrl, height=140, font=("Consolas", 11), fg_color="#1e1e1e", text_color="#00ff00")
         self.console.pack(fill="x", padx=10, pady=5)
         self.console.configure(state="disabled")
 
@@ -269,9 +277,17 @@ class GroundStationApp(ctk.CTk):
         self.alt_btn = ctk.CTkButton(alt_frame, text="SET ALT", width=80, command=self._cmd_change_alt)
         self.alt_btn.pack(side="left", padx=5, expand=True)
 
-        # Mapping
+        # Save to DB 
+        ctk.CTkLabel(ctrl, text="Severity Index:", font=("Consolas", 12)).pack(pady=(10, 0))
+        self.severity_slider = ctk.CTkSlider(ctrl, from_=1, to=10, number_of_steps=9)
+        self.severity_slider.set(5)
+        self.severity_slider.pack(pady=5, fill="x", padx=20)
+
+        self.save_btn = ctk.CTkButton(ctrl, text="Save Target to DB", fg_color="#27ae60", hover_color="#2ecc71", font=("Consolas", 13, "bold"), command=self._save_target)
+        self.save_btn.pack(pady=5, fill="x", padx=20)
+
         self.map_btn = ctk.CTkButton(ctrl, text="Open Tactical Map", font=("Consolas", 13), command=self._open_tactical_map)
-        self.map_btn.pack(pady=10, fill="x", padx=20)
+        self.map_btn.pack(pady=5, fill="x", padx=20)
 
         # Status output
         self.status_label = ctk.CTkLabel(ctrl, text="System Nominal", text_color="#2ecc71", font=("Consolas", 12))
@@ -300,12 +316,14 @@ class GroundStationApp(ctk.CTk):
         except Exception:
             return None
 
-    # ─── Flight Mode Methods ─────────────────────────────────────────────────
+    # ─── Flight Mode Methods (ArduPlane Mappings) ────────────────────────────
 
     def _cmd_auto(self) -> None:
+        # ArduPlane AUTO Mode = 10
         self._set_flight_mode("AUTO", 10)
 
     def _cmd_guided(self) -> None:
+        # ArduPlane GUIDED Mode = 15
         self._set_flight_mode("GUIDED", 15)
 
     def _set_flight_mode(self, mode_name: str, mode_id: int) -> None:
@@ -318,6 +336,7 @@ class GroundStationApp(ctk.CTk):
                 mavutil.mavlink.MAV_MODE_FLAG_CUSTOM_MODE_ENABLED,
                 mode_id, 0, 0, 0, 0, 0
             )
+            self.status_label.configure(text=f"MODE: {mode_name}", text_color="#3498db")
         except Exception as e:
             self._log_ui(f"❌ ERROR: {e}")
 
@@ -330,17 +349,14 @@ class GroundStationApp(ctk.CTk):
             sys_id = getattr(self.drone, 'target_system', 1)
             comp_id = getattr(self.drone, 'target_component', 1)
 
-            self._log_ui(f"➡️ SEND: MAV_CMD_NAV_WAYPOINT (Alt={target_alt}m, Lat={self.current_telemetry['lat']:.4f})")
-            self.drone.mav.mission_item_send(
+            self._log_ui(f"➡️ SEND: MAV_CMD_DO_REPOSITION (192) -> Alt={target_alt}m")
+            self.drone.mav.command_int_send(
                 sys_id, comp_id,
-                0, 
-                mavutil.mavlink.MAV_FRAME_GLOBAL_RELATIVE_ALT,
-                mavutil.mavlink.MAV_CMD_NAV_WAYPOINT,
-                2, # current=2 (GUIDED immediate)
-                0, 
-                0, 0, 0, 0, 
-                self.current_telemetry["lat"],
-                self.current_telemetry["lon"],
+                mavutil.mavlink.MAV_FRAME_GLOBAL_RELATIVE_ALT_INT,
+                mavutil.mavlink.MAV_CMD_DO_REPOSITION,
+                0, 0, -1.0, 1, 0, 0, 
+                int(self.current_telemetry["lat"] * 1e7),
+                int(self.current_telemetry["lon"] * 1e7),
                 target_alt
             )
         except ValueError:
@@ -348,16 +364,18 @@ class GroundStationApp(ctk.CTk):
         except Exception as e:
             self._log_ui(f"❌ ERROR: {e}")
 
-    # ─── Robust QLOITER (Threaded) ───────────────────────────────────────────
+    # ─── Robust QLOITER (Threaded for QuadPlane Transition) ──────────────────
 
     def _cmd_qloiter(self) -> None:
         if not self.active_target_gps:
-            self._log_ui("⚠️ ABORT QLOITER: No human bounding box active.")
+            self._log_ui("⚠️ ABORT: No target acquired in FOV.")
             return
         if self.drone is None: return
 
         def _send_sequence():
             try:
+                # ArduPlane requires a brief stabilization in fixed-wing LOITER
+                # before engaging the VTOL QLOITER motors
                 self._log_ui("➡️ SEND: MAV_CMD_DO_SET_MODE (12 - LOITER)")
                 self.drone.mav.command_long_send(
                     self.drone.target_system, self.drone.target_component,
@@ -380,13 +398,51 @@ class GroundStationApp(ctk.CTk):
                 
         threading.Thread(target=_send_sequence, daemon=True).start()
 
-    # ─── Mapping ─────────────────────────────────────────────────────────────
+    # ─── DB Save (Pure Save) ─────────────────────────────────────────────────
+
+    def _save_target(self) -> None:
+        """Saves target GPS+Pose to JSON. Does NOT auto-regenerate the map."""
+        if not self.active_target_gps:
+            self.status_label.configure(text="Cannot save: No target", text_color="#e74c3c")
+            return
+        try:
+            severity = int(self.severity_slider.get())
+            db = []
+            if DB_FILE.exists():
+                try:
+                    with open(DB_FILE, "r", encoding="utf-8") as f:
+                        db = json.load(f)
+                except Exception:
+                    pass
+
+            target = {
+                "id": f"Human {len(db) + 1}",
+                "timestamp": datetime.now().isoformat(),
+                "gps_lat": self.active_target_gps[0],
+                "gps_lon": self.active_target_gps[1],
+                "severity_index": severity,
+                "pose": self.last_detected_pose 
+            }
+            db.append(target)
+            
+            with open(DB_FILE, "w", encoding="utf-8") as f:
+                json.dump(db, f, indent=4, ensure_ascii=False)
+
+            self.status_label.configure(text=f"{target['id']} Saved", text_color="#2ecc71")
+            self._log_ui(f"💾 SAVED: {target['id']} | Pose: {self.last_detected_pose}")
+
+        except Exception as exc:
+            self._log_ui(f"❌ DB ERROR: {exc}")
 
     def _open_tactical_map(self) -> None:
+        """Generates the map on-demand and opens it in the browser."""
+        self._log_ui("🗺️ Generating Tactical Map...")
         def _worker():
             result = generate_tactical_map()
             if result and result.exists():
                 webbrowser.open(result.as_uri())
+            else:
+                self._log_ui("❌ MAP ERROR: Could not generate map.")
         threading.Thread(target=_worker, daemon=True).start()
 
 
@@ -401,7 +457,6 @@ class GroundStationApp(ctk.CTk):
             return
 
         try:
-            # Heartbeat check
             if not self.heartbeat_received:
                 msg = self.drone.recv_match(type='HEARTBEAT', blocking=False)
                 if msg and msg.get_srcSystem() != 0:
@@ -418,11 +473,10 @@ class GroundStationApp(ctk.CTk):
                     self.after(TELEM_POLL_MS, self._poll_telemetry)
                     return
 
-            # Read ENTIRE buffer so ACKs aren't dropped
             while True:
                 msg = self.drone.recv_match(blocking=False)
                 if not msg:
-                    break # Buffer is empty
+                    break
 
                 msg_type = msg.get_type()
 
@@ -432,20 +486,11 @@ class GroundStationApp(ctk.CTk):
                     self.current_telemetry["alt_m"] = msg.relative_alt / 1000.0 
                 elif msg_type == 'VFR_HUD':
                     self.current_telemetry["hdg"] = msg.heading
-                
-                # DIAGNOSTIC: Intercept ACKs!
                 elif msg_type == 'COMMAND_ACK':
-                    ack_results = {
-                        0: "ACCEPTED",
-                        1: "TEMPORARILY REJECTED",
-                        2: "DENIED",
-                        3: "UNSUPPORTED",
-                        4: "FAILED"
-                    }
+                    ack_results = {0: "ACCEPTED", 1: "TEMPORARILY REJECTED", 2: "DENIED", 3: "UNSUPPORTED", 4: "FAILED"}
                     res_str = ack_results.get(msg.result, f"UNKNOWN({msg.result})")
                     self._log_ui(f"⬅️ ACK [CMD: {msg.command}]: {res_str}")
 
-            # Update UI Text
             t = self.current_telemetry
             text = (
                 f"Lat : {t['lat']:.6f}\n"
@@ -456,11 +501,11 @@ class GroundStationApp(ctk.CTk):
             self.telemetry_label.configure(text=text, text_color="white")
 
         except Exception as exc:
-            self._log_ui(f"❌ MAVLINK ERROR: {exc}")
+            pass
 
         self.after(TELEM_POLL_MS, self._poll_telemetry)
 
-    # ─── Vision Loop ─────────────────────────────────────────────────────────
+    # ─── Vision & Pose Loop ──────────────────────────────────────────────────
 
     def _start_vision_loop(self) -> None:
         self._process_frame()
@@ -477,26 +522,47 @@ class GroundStationApp(ctk.CTk):
                 return
 
             self.active_target_gps = None
+            self.last_detected_pose = "UNKNOWN"
+            
+            annotated_frame = frame.copy()
+
             if self.model is not None:
                 try:
+                    # Run YOLO Pose prediction
                     results = self.model.predict(source=frame, classes=[0], conf=0.5, verbose=False)
-                    for result in results:
-                        for box in result.boxes:
+                    
+                    if len(results) > 0 and len(results[0].boxes) > 0:
+                        annotated_frame = results[0].plot()
+
+                        for box in results[0].boxes:
                             x1, y1, x2, y2 = map(int, box.xyxy[0])
                             cx, cy = int((x1 + x2) / 2), int((y1 + y2) / 2)
+                            
+                            # ── Drone-Optimized Pose Heuristic ──
+                            box_w = x2 - x1
+                            box_h = y2 - y1
+                            ratio = box_h / float(box_w) if box_w > 0 else 0
+                            
+                            if ratio < 0.8:
+                                self.last_detected_pose = "LYING DOWN"
+                            elif ratio < 1.3:
+                                self.last_detected_pose = "SITTING/CROUCHING"
+                            else:
+                                self.last_detected_pose = "STANDING"
+
                             gps = self._calculate_gps(cx, cy)
                             if gps:
                                 self.active_target_gps = gps
-                                cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 0, 255), 2)
-                                cv2.circle(frame, (cx, cy), 5, (0, 255, 0), -1)
+                                text_tag = f"GPS: {gps[0]:.5f}, {gps[1]:.5f} | {self.last_detected_pose}"
                                 cv2.putText(
-                                    frame, f"GPS: {gps[0]:.5f}, {gps[1]:.5f}",
-                                    (x1, y1 - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2
+                                    annotated_frame, text_tag,
+                                    (x1, max(15, y1 - 10)), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 255), 2
                                 )
                 except Exception:
                     pass
 
-            frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+            # Render to UI
+            frame_rgb = cv2.cvtColor(annotated_frame, cv2.COLOR_BGR2RGB)
             pil_img   = Image.fromarray(frame_rgb)
             disp_w = self.video_frame.winfo_width()  - 20
             disp_h = self.video_frame.winfo_height() - 20
@@ -508,6 +574,7 @@ class GroundStationApp(ctk.CTk):
                 self.video_label.configure(image=self._ctk_image_ref, text="")
         except Exception:
             pass
+            
         self.after(VISION_LOOP_MS, self._process_frame)
 
     def on_closing(self) -> None:

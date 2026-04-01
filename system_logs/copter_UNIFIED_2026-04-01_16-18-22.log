@@ -1,0 +1,15 @@
+2026-04-01 16:18:22,991 - [INFO] - ═══════════════════════════════════════════════════
+2026-04-01 16:18:22,997 - [INFO] -    DIAGNOSTIC BOOT INITIATED (ArduCopter Edition)
+2026-04-01 16:18:22,997 - [INFO] - ═══════════════════════════════════════════════════
+2026-04-01 16:18:23,023 - [INFO] - YOLOv8-Pose Core Online.
+2026-04-01 16:18:23,023 - [INFO] - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 16:18:23,217 - [INFO] -   ✓ Camera found at index 0
+2026-04-01 16:18:23,363 - [INFO] - SITL Pipeline Ready (Awaiting Heartbeat).
+2026-04-01 16:18:23,403 - [INFO] - ✅ LINK ESTABLISHED: Heartbeat Confirmed.
+2026-04-01 16:18:26,389 - [INFO] - ➡️ SEND: MAV_CMD_DO_SET_MODE (3 - AUTO)
+2026-04-01 16:18:26,492 - [INFO] - ⬅️ ACK [CMD: 176]: ACCEPTED
+2026-04-01 16:18:26,888 - [INFO] - ➡️ SEND: MAV_CMD_DO_SET_MODE (4 - GUIDED)
+2026-04-01 16:18:26,972 - [INFO] - ⬅️ ACK [CMD: 176]: ACCEPTED
+2026-04-01 16:18:27,438 - [INFO] - ➡️ SEND: MAV_CMD_DO_SET_MODE (5 - LOITER)
+2026-04-01 16:18:27,463 - [INFO] - ⬅️ ACK [CMD: 176]: ACCEPTED
+2026-04-01 16:18:29,166 - [INFO] - System shutting down...

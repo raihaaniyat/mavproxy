@@ -1,0 +1,16 @@
+2026-04-01 16:10:35,862 - [INFO] - ═══════════════════════════════════════════════════
+2026-04-01 16:10:35,862 - [INFO] -    DIAGNOSTIC BOOT INITIATED (Pose Edition)
+2026-04-01 16:10:35,862 - [INFO] - ═══════════════════════════════════════════════════
+2026-04-01 16:10:35,888 - [INFO] - YOLOv8-Pose Core Online.
+2026-04-01 16:10:35,888 - [INFO] - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 16:10:36,087 - [INFO] -   ✓ Camera found at index 0
+2026-04-01 16:10:36,233 - [INFO] - SITL Pipeline Ready (Awaiting Heartbeat).
+2026-04-01 16:10:36,271 - [INFO] - ✅ LINK ESTABLISHED: Heartbeat Confirmed.
+2026-04-01 16:10:54,428 - [INFO] - ➡️ SEND: MAV_CMD_DO_SET_MODE (10 - AUTO)
+2026-04-01 16:10:54,529 - [INFO] - ⬅️ ACK [CMD: 176]: FAILED
+2026-04-01 16:10:56,867 - [INFO] - ➡️ SEND: MAV_CMD_DO_SET_MODE (15 - GUIDED)
+2026-04-01 16:10:57,020 - [INFO] - ⬅️ ACK [CMD: 176]: FAILED
+2026-04-01 16:10:58,836 - [INFO] - ➡️ SEND: MAV_CMD_DO_SET_MODE (10 - AUTO)
+2026-04-01 16:10:58,911 - [INFO] - ⬅️ ACK [CMD: 176]: FAILED
+2026-04-01 16:10:59,137 - [INFO] - ➡️ SEND: MAV_CMD_DO_SET_MODE (10 - AUTO)
+2026-04-01 16:10:59,239 - [INFO] - ⬅️ ACK [CMD: 176]: FAILED
