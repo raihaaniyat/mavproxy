@@ -1,0 +1,9 @@
+2026-04-01 17:14:41,566 - [INFO] - ═══════════════════════════════════════════════════
+2026-04-01 17:14:41,566 - [INFO] -    DIAGNOSTIC BOOT INITIATED (ArduPlane Edition)
+2026-04-01 17:14:41,566 - [INFO] - ═══════════════════════════════════════════════════
+2026-04-01 17:14:41,592 - [INFO] - YOLOv8-Pose Core Online.
+2026-04-01 17:14:41,593 - [INFO] - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 17:14:41,793 - [INFO] -   ✓ Camera found at index 0
+2026-04-01 17:14:43,972 - [ERROR] - MAVLink Link failed — [WinError 10061] No connection could be made because the target machine actively refused it
+2026-04-01 17:14:50,896 - [INFO] - 💾 SAVED: Human 9 | Pose: SITTING/CROUCHING
+2026-04-01 17:14:54,614 - [INFO] - 🗺️ Generating Tactical Map...

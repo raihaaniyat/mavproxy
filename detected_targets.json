@@ -54,5 +54,13 @@
         "gps_lat": -35.36678452,
         "gps_lon": 149.14729556,
         "severity_index": 5
+    },
+    {
+        "id": "Human 9",
+        "timestamp": "2026-04-01T17:14:50.895488",
+        "gps_lat": 5e-08,
+        "gps_lon": -1.6e-07,
+        "severity_index": 5,
+        "pose": "SITTING/CROUCHING"
     }
 ]
