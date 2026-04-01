@@ -1,0 +1,815 @@
+2026-04-01 13:32:24,432 - [INFO] - <Line: 700> - Launching Cobra VTOL Ground Station (Windows)...
+2026-04-01 13:32:24,902 - [INFO] - <Line: 246> - ═══════════════════════════════════════════════════
+2026-04-01 13:32:24,902 - [INFO] - <Line: 247> -    HYBRID SYSTEM BOOT INITIATED  (Windows)
+2026-04-01 13:32:24,902 - [INFO] - <Line: 248> - ═══════════════════════════════════════════════════
+2026-04-01 13:32:25,947 - [INFO] - <Line: 255> - YOLOv8n Core Online.
+2026-04-01 13:32:25,947 - [INFO] - <Line: 127> - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 13:32:25,947 - [DEBUG] - <Line: 130> -   Probing index 0 with CAP_DSHOW...
+2026-04-01 13:32:26,684 - [INFO] - <Line: 138> -   ✓ Camera found at index 0
+2026-04-01 13:32:26,893 - [INFO] - <Line: 271> - OBS Video Feed Online (DirectShow).
+2026-04-01 13:32:26,893 - [INFO] - <Line: 281> - Establishing MAVLink Command Link → COM3
+2026-04-01 13:32:26,956 - [ERROR] - <Line: 286> - MAVLink Command Link failed — could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2) (Is SITL running?)
+2026-04-01 13:32:26,972 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:26,988 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=359.0
+2026-04-01 13:32:30,771 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:30,780 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:30,984 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:30,984 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:31,197 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:31,220 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:31,433 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:31,446 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:31,646 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:31,646 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:31,847 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:31,847 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:32,052 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:32,055 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:32,255 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:32,274 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:32,545 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:32,548 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:32,749 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:32,752 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:32,951 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:32,954 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:33,161 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:33,163 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:33,376 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:33,392 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:33,656 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:33,659 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:33,861 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:33,863 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:34,073 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:34,096 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:34,298 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:34,301 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:34,507 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:34,533 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:34,738 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:34,741 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:34,942 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:34,944 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:35,155 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:35,158 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:35,419 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:35,422 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:35,628 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:35,630 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:35,833 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:35,835 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:36,041 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:36,058 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:36,334 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:36,359 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:36,549 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:36,564 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:36,774 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:36,777 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:36,984 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:36,984 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:37,202 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:37,206 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:37,409 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:37,411 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:37,625 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:37,650 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:37,852 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:37,868 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:38,081 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:38,081 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:38,286 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:38,302 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:38,548 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:38,550 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:38,794 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:38,821 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:39,034 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:39,044 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:39,275 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:39,278 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:39,521 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:39,521 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:39,819 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:39,837 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:40,077 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:40,079 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:40,318 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:40,321 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:40,609 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:40,613 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:40,822 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:40,823 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:41,064 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:41,067 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:41,346 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:41,371 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:41,671 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:41,677 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:41,934 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:41,934 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:42,171 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:42,174 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:42,415 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:42,417 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:42,652 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:42,656 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:42,978 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:42,995 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:43,277 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:43,277 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:43,546 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:43,548 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:43,784 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:43,784 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:44,034 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:44,058 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:32:44,284 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:44,286 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:44,521 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:44,533 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:44,752 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:44,755 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:44,986 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:44,988 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:45,227 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:45,231 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:45,452 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:45,452 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:45,705 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:45,721 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:45,946 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:45,948 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:46,177 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:46,180 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:46,417 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:46,417 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:46,639 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:46,671 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:46,893 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:46,908 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:47,127 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:47,145 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:47,342 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:47,351 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:47,589 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:47,589 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:47,795 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:47,795 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:48,029 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:48,031 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:48,256 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:48,268 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:48,496 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:48,506 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:48,729 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:48,733 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:48,949 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:48,949 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:49,172 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:49,188 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:49,384 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:49,409 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:49,599 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:49,599 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:49,837 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:49,837 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:50,071 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:50,074 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:50,302 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:50,302 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:50,527 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:50,534 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:50,738 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:50,754 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:50,975 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:50,991 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:51,211 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:51,211 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:51,434 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:51,449 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:51,671 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:51,675 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:51,906 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:51,906 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:52,130 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:52,145 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:52,349 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:52,349 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:52,589 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:52,591 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:52,829 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:52,833 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:53,065 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:53,068 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:53,303 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:53,324 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:53,810 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:53,810 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:54,109 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:54,109 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:54,484 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:54,495 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:54,784 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:54,802 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:55,036 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:55,041 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:55,310 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:55,316 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:55,577 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:55,581 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:55,837 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:55,837 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:56,077 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:56,080 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:56,328 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:56,344 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:56,582 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:56,615 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:56,831 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:56,834 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:57,071 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:57,074 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:57,320 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:57,349 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:57,560 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:57,564 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:57,788 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:57,788 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:58,021 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:58,027 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:58,241 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:58,252 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:58,480 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:58,508 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:58,721 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:58,727 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:58,934 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:58,949 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:59,188 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:59,190 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:59,413 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:59,421 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:59,645 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:59,645 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:32:59,884 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:32:59,898 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:00,119 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:00,134 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:00,338 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:00,354 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:00,543 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:00,543 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:00,781 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:00,784 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:00,987 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:01,002 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:01,221 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:01,223 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:01,434 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:01,434 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:01,666 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:01,683 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:01,886 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:01,888 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:02,092 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:02,094 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:02,331 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:02,331 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:02,537 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:02,537 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:02,771 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:02,773 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:02,979 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:02,984 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:03,199 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:03,204 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:03,422 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:03,422 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:03,634 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:03,634 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:03,862 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:03,871 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:04,084 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:04,099 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:04,327 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:04,336 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:04,555 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:04,575 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:04,792 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:04,812 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:05,027 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:05,029 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:05,234 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:05,255 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:05,445 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:05,460 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:05,681 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:05,696 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:05,932 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:05,934 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:06,139 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:06,139 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:06,371 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:06,374 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:06,584 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:06,584 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:06,816 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:06,832 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:07,034 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:07,037 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:07,263 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:07,265 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:07,484 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:07,484 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:07,701 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:07,701 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:07,927 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:07,933 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:08,136 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:08,145 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:08,349 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:08,365 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:08,586 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:08,587 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:08,794 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:08,794 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:09,021 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:09,027 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:09,251 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:09,251 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:09,481 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:09,484 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:09,725 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:09,727 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:09,947 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:09,963 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:10,169 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:10,171 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:10,392 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:10,394 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:10,604 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:10,608 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:10,827 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:10,849 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:11,049 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:11,052 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:11,290 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:11,290 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:11,521 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:11,521 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:11,754 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:11,756 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:11,968 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:11,971 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:12,184 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:12,189 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:12,411 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:12,411 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:12,654 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:12,656 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:12,871 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:12,871 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:13,088 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:13,103 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=359.0
+2026-04-01 13:33:13,319 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:13,321 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:13,550 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:13,552 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:13,784 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:13,800 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:14,006 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:14,022 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:14,229 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:14,234 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=359.0
+2026-04-01 13:33:14,471 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:14,496 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:14,704 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:14,704 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:14,921 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:14,921 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:15,126 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:15,142 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:15,343 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:15,356 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:15,561 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:15,563 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:15,816 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:15,829 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:16,067 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:16,069 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:16,321 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:16,334 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:16,658 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:16,661 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:16,913 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:16,915 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:17,477 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:17,481 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:17,682 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:17,685 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:17,885 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:17,888 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:18,098 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:18,100 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:18,342 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:18,356 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:18,572 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:18,585 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:18,786 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:18,789 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:18,999 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:19,001 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:19,223 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:19,224 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:19,440 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:19,443 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:19,653 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:19,656 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:19,856 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:19,869 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:20,069 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:20,072 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:20,273 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:20,276 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:20,475 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:20,478 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:20,679 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:20,681 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:20,883 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:20,885 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:21,085 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:21,088 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:21,289 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:21,291 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:21,501 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:21,513 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:21,715 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:21,718 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:21,928 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:21,930 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:22,148 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:22,150 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:22,369 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:22,371 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:22,580 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:22,582 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:22,796 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:22,798 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:23,014 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:23,017 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:23,225 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:23,239 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:23,443 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:23,447 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:23,652 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:23,655 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:23,871 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:23,884 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:24,087 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:24,091 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:24,310 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:24,322 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:24,522 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:24,535 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:24,736 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:24,738 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:24,941 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:24,953 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:25,153 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:25,155 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:25,364 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:25,366 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:25,567 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:25,569 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:25,769 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:25,772 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:25,973 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:25,975 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:26,180 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:26,184 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:26,404 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:26,416 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:26,618 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:26,621 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:26,844 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:26,858 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:27,063 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:27,066 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:27,267 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:27,279 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:27,479 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:27,481 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:27,681 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:27,684 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:27,884 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:27,896 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:28,097 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:28,099 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:28,300 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:28,302 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:28,503 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:28,506 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:28,705 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:28,708 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:28,908 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:28,911 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:29,112 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:29,115 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:29,316 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:29,318 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:29,520 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:29,522 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:29,723 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:29,736 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:29,936 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:29,938 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:30,206 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:30,209 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:30,416 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:30,418 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:30,624 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:30,626 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:30,830 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:30,832 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:31,034 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:31,036 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:31,237 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:31,239 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:31,440 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:31,452 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:31,652 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:31,655 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:31,855 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:31,858 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:32,058 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:32,069 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:32,271 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:32,274 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:32,474 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:32,486 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:32,686 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:32,688 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:32,889 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:32,902 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:33,103 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:33,116 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:33,380 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:33,384 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:33,588 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:33,590 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:33,802 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:33,815 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:34,016 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:34,019 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:34,221 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:34,232 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:34,433 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:34,445 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:34,705 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:34,707 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:34,908 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:34,911 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:35,113 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:35,115 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:35,326 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:35,328 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:35,528 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:35,532 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:35,732 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:35,734 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:35,945 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:35,947 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:36,149 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:36,152 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:36,363 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:36,376 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:36,577 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:36,580 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:36,782 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:36,794 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:37,001 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:37,005 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:37,230 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:37,234 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:33:37,450 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:37,454 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:37,653 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:37,657 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:37,869 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:37,871 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:38,084 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:38,088 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:38,307 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:38,311 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:38,568 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:38,572 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:38,803 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:38,803 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:39,055 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:39,057 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:39,284 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:39,284 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:39,527 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:39,552 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:39,757 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:39,757 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:40,010 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:40,021 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:40,271 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:40,271 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:40,507 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:40,507 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:40,734 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:40,752 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:40,955 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:40,958 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:41,193 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:41,193 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:41,427 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:41,447 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:41,671 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:41,673 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:41,903 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:41,920 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:42,127 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:42,131 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:42,347 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:42,347 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:42,599 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:42,599 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:42,825 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:42,838 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:43,071 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:43,073 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:43,284 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:43,284 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:43,517 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:43,521 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:43,754 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:43,754 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:44,007 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:44,040 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:44,242 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:44,243 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:44,464 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:44,471 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:44,715 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:44,715 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:44,953 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:44,968 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:45,191 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:45,192 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:45,421 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:45,426 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:45,663 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:45,670 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:45,915 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:45,921 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:46,177 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:46,200 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:46,406 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:46,419 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:46,659 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:46,691 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:46,898 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:46,913 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:47,136 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:47,141 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:47,374 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:47,390 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:47,595 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:47,595 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:47,834 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:47,834 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:48,075 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:48,100 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:48,321 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:48,321 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:48,534 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:48,558 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:48,771 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:48,779 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:49,001 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:49,001 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:49,223 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:49,239 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:49,471 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:49,471 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:49,698 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:49,698 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:49,934 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:49,934 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:50,171 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:50,171 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:50,390 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:50,390 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:50,615 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:50,615 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:50,834 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:50,841 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:51,079 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:51,079 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:51,300 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:51,316 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:51,553 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:51,555 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:51,775 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:51,791 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:51,996 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:52,011 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:52,234 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:52,234 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:52,486 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:52,500 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:52,722 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:52,727 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:52,981 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:52,984 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:53,212 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:53,221 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:53,440 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:53,465 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:53,677 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:53,684 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:54,055 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:54,057 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:54,371 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:54,374 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:54,662 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:54,666 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:54,929 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:54,930 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:55,222 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:55,227 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.0 hdg=0.0
+2026-04-01 13:33:55,504 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:55,504 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:55,746 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:55,746 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:56,000 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:56,007 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:56,264 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:56,266 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:56,534 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:56,558 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:56,788 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:56,792 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:57,034 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:57,034 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:57,287 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:57,299 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:57,536 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:57,536 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:57,794 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:57,796 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:58,041 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:58,041 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:58,296 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:58,311 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:58,527 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:58,527 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:58,771 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:58,784 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:59,021 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:59,021 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:59,289 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:59,289 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:59,543 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:59,574 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:33:59,784 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:33:59,797 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:00,034 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:00,034 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:00,277 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:00,277 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:00,527 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:00,534 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:00,784 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:00,784 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:01,027 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:01,031 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:01,279 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:01,299 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:01,527 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:01,530 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:01,777 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:01,790 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:02,028 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:02,032 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:02,264 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:02,280 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:02,506 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:02,517 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:02,754 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:02,769 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:02,998 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:02,998 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:03,245 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:03,245 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.1 hdg=0.0
+2026-04-01 13:34:03,484 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:03,498 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:34:03,740 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:03,740 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0
+2026-04-01 13:34:03,973 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:34:03,977 - [DEBUG] - <Line: 555> - Telemetry OK — lat=-35.363340 lon=149.165148 alt=587.2 hdg=0.0

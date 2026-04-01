@@ -1,0 +1,9 @@
+2026-04-01 13:52:41,533 - [INFO] - <Line: 205> - ═══════════════════════════════════════════════════
+2026-04-01 13:52:41,533 - [INFO] - <Line: 206> -    UNIFIED SYSTEM BOOT INITIATED  (Windows)
+2026-04-01 13:52:41,533 - [INFO] - <Line: 207> - ═══════════════════════════════════════════════════
+2026-04-01 13:52:41,556 - [INFO] - <Line: 214> - YOLOv8n Core Online.
+2026-04-01 13:52:41,556 - [INFO] - <Line: 113> - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 13:52:41,558 - [DEBUG] - <Line: 115> -   Probing index 0 with CAP_DSHOW...
+2026-04-01 13:52:41,758 - [INFO] - <Line: 120> -   ✓ Camera found at index 0
+2026-04-01 13:52:41,906 - [INFO] - <Line: 228> - Establishing MAVLink Pipeline → tcp:127.0.0.1:5762
+2026-04-01 13:52:43,933 - [ERROR] - <Line: 233> - MAVLink Link failed — [WinError 10061] No connection could be made because the target machine actively refused it

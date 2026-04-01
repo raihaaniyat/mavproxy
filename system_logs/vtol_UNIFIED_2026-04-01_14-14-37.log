@@ -1,0 +1,24 @@
+2026-04-01 14:14:37,782 - [INFO] - <Line: 170> - ═══════════════════════════════════════════════════
+2026-04-01 14:14:37,782 - [INFO] - <Line: 171> -    UNIFIED SYSTEM BOOT INITIATED  (Windows)
+2026-04-01 14:14:37,782 - [INFO] - <Line: 172> - ═══════════════════════════════════════════════════
+2026-04-01 14:14:37,808 - [INFO] - <Line: 96> - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 14:14:38,007 - [INFO] - <Line: 102> -   ✓ Camera found at index 0
+2026-04-01 14:14:38,152 - [INFO] - <Line: 188> - SITL Pipeline Ready (Awaiting Heartbeat).
+2026-04-01 14:14:59,744 - [WARNING] - <Line: 386> - ──► COMMAND SEQUENCE COMPLETE: LOITER -> QLOITER
+2026-04-01 14:15:10,653 - [INFO] - <Line: 313> - Commanded Flight Mode: AUTO (Mode ID 10)
+2026-04-01 14:15:12,394 - [INFO] - <Line: 313> - Commanded Flight Mode: GUIDED (Mode ID 15)
+2026-04-01 14:15:17,352 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:15:23,483 - [INFO] - <Line: 313> - Commanded Flight Mode: AUTO (Mode ID 10)
+2026-04-01 14:15:28,724 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:15:29,121 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:15:29,287 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:15:29,520 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:15:29,682 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:15:29,844 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:15:30,007 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:15:30,167 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:16:52,097 - [WARNING] - <Line: 386> - ──► COMMAND SEQUENCE COMPLETE: LOITER -> QLOITER
+2026-04-01 14:17:03,815 - [INFO] - <Line: 313> - Commanded Flight Mode: AUTO (Mode ID 10)
+2026-04-01 14:17:07,696 - [INFO] - <Line: 313> - Commanded Flight Mode: GUIDED (Mode ID 15)
+2026-04-01 14:17:16,749 - [WARNING] - <Line: 386> - ──► COMMAND SEQUENCE COMPLETE: LOITER -> QLOITER
+2026-04-01 14:17:53,775 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m

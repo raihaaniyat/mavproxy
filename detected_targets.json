@@ -12,5 +12,47 @@
         "lon": 78.18245436,
         "timestamp": "2026-03-31T03:58:13.196650",
         "status": "HIGH"
+    },
+    {
+        "id": "Human 3",
+        "timestamp": "2026-04-01T14:17:19.703061",
+        "gps_lat": -35.36334017,
+        "gps_lon": 149.16514791,
+        "severity_index": 5
+    },
+    {
+        "id": "Human 4",
+        "timestamp": "2026-04-01T14:17:30.695004",
+        "gps_lat": -35.36334017,
+        "gps_lon": 149.16514791,
+        "severity_index": 5
+    },
+    {
+        "id": "Human 5",
+        "timestamp": "2026-04-01T14:17:32.781510",
+        "gps_lat": -35.36334016,
+        "gps_lon": 149.16514791,
+        "severity_index": 7
+    },
+    {
+        "id": "Human 6",
+        "timestamp": "2026-04-01T14:17:46.543763",
+        "gps_lat": -35.36334017,
+        "gps_lon": 149.16514791,
+        "severity_index": 7
+    },
+    {
+        "id": "Human 7",
+        "timestamp": "2026-04-01T14:17:47.295156",
+        "gps_lat": -35.36334017,
+        "gps_lon": 149.16514791,
+        "severity_index": 7
+    },
+    {
+        "id": "Human 8",
+        "timestamp": "2026-04-01T14:43:08.909960",
+        "gps_lat": -35.36678452,
+        "gps_lon": 149.14729556,
+        "severity_index": 5
     }
 ]

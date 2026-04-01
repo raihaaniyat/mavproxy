@@ -1,0 +1,331 @@
+2026-04-01 13:56:47,285 - [INFO] - <Line: 700> - Launching Cobra VTOL Ground Station (Windows)...
+2026-04-01 13:56:47,338 - [INFO] - <Line: 246> - ═══════════════════════════════════════════════════
+2026-04-01 13:56:47,338 - [INFO] - <Line: 247> -    HYBRID SYSTEM BOOT INITIATED  (Windows)
+2026-04-01 13:56:47,338 - [INFO] - <Line: 248> - ═══════════════════════════════════════════════════
+2026-04-01 13:56:47,361 - [INFO] - <Line: 255> - YOLOv8n Core Online.
+2026-04-01 13:56:47,361 - [INFO] - <Line: 127> - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 13:56:47,362 - [DEBUG] - <Line: 130> -   Probing index 0 with CAP_DSHOW...
+2026-04-01 13:56:47,556 - [INFO] - <Line: 138> -   ✓ Camera found at index 0
+2026-04-01 13:56:47,715 - [INFO] - <Line: 271> - OBS Video Feed Online (DirectShow).
+2026-04-01 13:56:47,715 - [INFO] - <Line: 281> - Establishing MAVLink Command Link → COM3
+2026-04-01 13:56:47,717 - [ERROR] - <Line: 286> - MAVLink Command Link failed — could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2) (Is SITL running?)
+2026-04-01 13:56:47,732 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:47,754 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:47,822 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:47,823 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:47,887 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:47,887 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:47,963 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:47,963 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:47,986 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:47,989 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:48,051 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,051 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,125 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,125 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,199 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,199 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,226 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:48,238 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:48,278 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,278 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,352 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,353 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,426 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,427 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,449 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:48,453 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:48,500 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,500 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,577 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,577 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,653 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,653 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,675 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:48,688 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:48,724 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,724 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,800 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,800 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,874 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,874 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:48,899 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:48,902 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:48,969 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:48,969 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,074 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,075 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,109 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:49,112 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:49,173 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,173 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,263 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,263 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,312 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:49,316 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:49,361 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,361 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,461 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,461 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,516 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:49,519 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:49,549 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,549 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,642 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,642 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,728 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,728 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,756 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:49,767 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:49,820 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,820 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,908 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:49,908 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:49,967 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:49,979 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:50,011 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,011 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,103 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,104 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,194 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,195 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,225 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:50,227 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:50,283 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,283 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,364 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,364 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,450 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,450 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,477 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:50,480 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:50,543 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,543 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,628 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,628 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,680 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:50,683 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:50,714 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,714 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,799 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,799 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,892 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,893 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:50,921 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:50,924 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:50,988 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:50,988 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,078 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,078 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,123 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:51,136 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:51,171 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,171 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,254 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,254 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,345 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,345 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,374 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:51,377 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:51,441 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,441 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,532 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,532 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,577 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:51,580 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:51,626 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,627 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,723 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,723 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,780 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:51,782 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:51,813 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,813 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:51,908 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:51,908 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,006 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,006 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,032 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:52,035 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:52,096 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,097 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,195 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,195 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,235 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:52,248 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:52,285 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,285 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,372 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,372 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,460 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,460 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,493 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:52,497 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:52,555 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,555 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,644 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,645 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,697 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:52,700 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:52,738 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,739 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,827 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,827 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,925 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:52,925 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:52,954 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:52,957 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:53,020 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,020 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,104 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,105 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,156 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:53,170 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:53,205 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,205 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,294 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,295 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,385 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,387 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,412 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:53,416 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:53,472 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,472 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,557 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,557 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,652 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,653 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,680 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:53,684 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:53,740 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,740 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,842 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,842 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:53,883 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:53,886 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:53,938 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:53,938 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,033 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,033 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,085 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:54,088 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:54,125 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,125 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,214 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,214 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,305 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,305 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,342 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:54,345 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:54,405 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,405 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,499 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,500 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,544 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:54,547 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:54,593 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,594 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,683 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,683 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,773 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,773 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,802 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:54,805 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:54,863 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,863 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:54,952 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:54,952 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,005 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:55,009 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:55,046 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,046 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,134 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,135 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,232 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,232 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,269 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:55,271 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:55,337 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,338 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,432 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,432 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,471 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:55,475 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:55,526 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,526 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,630 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,630 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,675 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:55,678 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:55,724 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,724 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,823 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,823 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:55,878 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:55,882 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:55,914 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:55,914 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,003 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,003 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,093 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,093 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,121 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:56,125 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:56,183 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,183 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,276 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,276 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,325 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:56,328 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:56,371 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,371 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,463 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,463 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,551 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,551 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,580 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:56,582 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:56,639 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,639 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,732 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,733 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,782 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:56,786 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:56,826 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,826 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:56,923 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:56,923 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,019 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,019 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,048 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:57,050 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:57,107 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,107 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,195 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,195 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,250 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:57,253 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:57,294 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,294 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,390 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,391 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,484 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,484 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,518 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:57,530 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:57,583 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,583 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,692 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,692 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,730 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:57,741 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:57,787 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,787 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,882 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,882 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:57,981 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:57,981 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)
+2026-04-01 13:56:58,013 - [DEBUG] - <Line: 529> - HTTP GET → http://127.0.0.1:56781/mavlink/
+2026-04-01 13:56:58,016 - [DEBUG] - <Line: 555> - Telemetry OK — lat=0.000000 lon=0.000000 alt=0.0 hdg=0.0
+2026-04-01 13:56:58,075 - [DEBUG] - <Line: 419> - GPS projection: px=(931,535) → (3e-08, -1.6e-07)
+2026-04-01 13:56:58,075 - [DEBUG] - <Line: 640> - Human detected px=(931,535) → GPS=(0.000000,-0.000000)

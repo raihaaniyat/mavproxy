@@ -1,28 +1,29 @@
 @echo off
 echo =======================================================
-echo  COBRA VTOL Ground Station  [Native Mission Planner]
+echo  COBRA VTOL Ground Station  [Mission Planner SITL]
 echo =======================================================
 echo.
-echo STEP 1: Make sure Mission Planner is already running
-echo         with Simulation -^> Plane started.
+echo PRE-FLIGHT CHECKLIST:
+echo   1. Open Mission Planner
+echo   2. Go to: Simulation -^> Plane  (or QuadPlane)
+echo   3. Wait until the HUD shows GPS and a heartbeat
+echo   4. THEN press any key here to connect...
 echo.
-echo STEP 2: Launching Telemetry Bridge + Ground Station UI...
+echo NOTE: master_station.py connects to TCP 5762 directly.
+echo       The HTTP bridge (sitl_telem_bridge.py) is NOT needed anymore.
 echo.
+pause
 
-REM 1. Start the Telemetry Bridge (reads from Mission Planner TCP 5763)
-start "VTOL HTTP Bridge (TCP 5763)" cmd /k ".\myenv\Scripts\activate && python sitl_telem_bridge.py"
-
-timeout /t 2 /nobreak >nul
-
-REM 2. Start the Main Ground Station UI (commands to TCP 5762)
-start "VTOL Ground Station UI" cmd /k ".\myenv\Scripts\activate && python master_station.py"
+REM Launch the Ground Station — connects directly to Mission Planner on TCP 5762
+start "VTOL Ground Station" cmd /k ".\myenv\Scripts\activate && python master_station.py"
 
 echo.
-echo All modules launched in virtual environment!
+echo Ground Station launched!
 echo.
 echo ARCHITECTURE:
-echo   Mission Planner SITL ^<--^> TCP 5762 ^<--^> master_station.py     (COMMANDS)
-echo   Mission Planner SITL ^<--^> TCP 5763 ^<--^> sitl_telem_bridge.py  (TELEMETRY)
-echo                                             HTTP:56781 ^<--^> master_station.py
+echo   Mission Planner SITL ^<--^> TCP 5762 ^<--^> master_station.py (telemetry + commands)
+echo.
+echo If connection fails on 5762, try changing MAVLINK_CONN in master_station.py to:
+echo   tcp:127.0.0.1:5763
 echo.
 pause

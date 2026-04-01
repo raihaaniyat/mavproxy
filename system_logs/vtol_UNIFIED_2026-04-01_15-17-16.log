@@ -1,0 +1,11 @@
+2026-04-01 15:17:16,967 - [INFO] - <Line: 178> - ═══════════════════════════════════════════════════
+2026-04-01 15:17:16,967 - [INFO] - <Line: 179> -    UNIFIED SYSTEM BOOT INITIATED  (Windows)
+2026-04-01 15:17:16,968 - [INFO] - <Line: 180> - ═══════════════════════════════════════════════════
+2026-04-01 15:17:16,990 - [INFO] - <Line: 96> - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 15:17:17,188 - [INFO] - <Line: 102> -   ✓ Camera found at index 0
+2026-04-01 15:17:17,352 - [INFO] - <Line: 196> - SITL Pipeline Ready (Awaiting Heartbeat).
+2026-04-01 15:20:07,435 - [INFO] - <Line: 319> - Commanded Flight Mode: GUIDED (Mode ID 15)
+2026-04-01 15:20:14,996 - [INFO] - <Line: 319> - Commanded Flight Mode: AUTO (Mode ID 10)
+2026-04-01 15:20:18,591 - [INFO] - <Line: 319> - Commanded Flight Mode: GUIDED (Mode ID 15)
+2026-04-01 15:20:31,506 - [WARNING] - <Line: 392> - ──► COMMAND SEQUENCE COMPLETE: LOITER -> QLOITER
+2026-04-01 15:20:41,235 - [INFO] - <Line: 349> - Commanded GUIDED Waypoint to Altitude: 20.0m

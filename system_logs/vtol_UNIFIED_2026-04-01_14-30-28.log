@@ -1,0 +1,31 @@
+2026-04-01 14:30:28,301 - [INFO] - <Line: 170> - ═══════════════════════════════════════════════════
+2026-04-01 14:30:28,301 - [INFO] - <Line: 171> -    UNIFIED SYSTEM BOOT INITIATED  (Windows)
+2026-04-01 14:30:28,301 - [INFO] - <Line: 172> - ═══════════════════════════════════════════════════
+2026-04-01 14:30:28,327 - [INFO] - <Line: 96> - Scanning for DirectShow cameras (OBS Virtual Camera)...
+2026-04-01 14:30:28,528 - [INFO] - <Line: 102> -   ✓ Camera found at index 0
+2026-04-01 14:30:28,672 - [INFO] - <Line: 188> - SITL Pipeline Ready (Awaiting Heartbeat).
+2026-04-01 14:30:48,534 - [INFO] - <Line: 313> - Commanded Flight Mode: AUTO (Mode ID 10)
+2026-04-01 14:31:47,518 - [INFO] - <Line: 313> - Commanded Flight Mode: GUIDED (Mode ID 15)
+2026-04-01 14:31:50,367 - [WARNING] - <Line: 386> - ──► COMMAND SEQUENCE COMPLETE: LOITER -> QLOITER
+2026-04-01 14:31:55,100 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:36,504 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:38,332 - [INFO] - <Line: 313> - Commanded Flight Mode: AUTO (Mode ID 10)
+2026-04-01 14:32:38,500 - [WARNING] - <Line: 386> - ──► COMMAND SEQUENCE COMPLETE: LOITER -> QLOITER
+2026-04-01 14:32:38,907 - [INFO] - <Line: 313> - Commanded Flight Mode: GUIDED (Mode ID 15)
+2026-04-01 14:32:40,990 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:41,203 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:41,389 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:41,558 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:41,613 - [WARNING] - <Line: 386> - ──► COMMAND SEQUENCE COMPLETE: LOITER -> QLOITER
+2026-04-01 14:32:41,773 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:41,936 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:42,103 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:52,816 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:52,982 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:53,166 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:53,374 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:53,535 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:53,695 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:53,862 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:54,111 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
+2026-04-01 14:32:54,276 - [INFO] - <Line: 338> - Commanded New Altitude: 20.0m
